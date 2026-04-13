@@ -1,10 +1,10 @@
 {
   "name": "Maze Escape",
-  "short_name": "Maze",
+  "short_name": "Maze Escape",
   "description": "Survive the ancient ruins in this thrilling maze escape game.",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#000000",
@@ -13,13 +13,13 @@
   "icons": [
     {
       "src": "icon-192x192.png",
-      "sizes": "192x192 500x500",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "icon-192x192.png",
-      "sizes": "192x192 500x500",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
@@ -37,3 +37,4 @@
     }
   ]
 }
+
